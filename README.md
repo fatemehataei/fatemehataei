@@ -3,7 +3,7 @@ turing research team
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/turing) 
+
 [![linkedin](https://img.shields.io/badge/linkedin-%23E4405F.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-ataei-3b252b301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 # 💻 Tech Stack:
